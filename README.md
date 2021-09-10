@@ -35,11 +35,11 @@ The current set of symbols is designed for the German language, which contains t
 
 **Todo**: the current python script is not yet configurable (size options and Silk on/off)
 
-### Further Ressources
+### Further Resources
 
 - What is Braille? [lvib.org](https://www.lvib.org/what-is-braille/)
 - E-DIN 32976 measurements [taktile-leitsysteme.de](https://shop.taktile-leitsysteme.de/Definitionen-Allgemeines:_:18.html)
-- [https://github.com/Tact-Tiles](Tact-Tiles)
+- [Tact-Tiles](https://github.com/Tact-Tiles)
 
 ---
 
